@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HCD_IR/.idea/HCD_IR.iml" filepath="$PROJECT_DIR$/../HCD_IR/.idea/HCD_IR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HCD_UK.iml" filepath="$PROJECT_DIR$/.idea/HCD_UK.iml" />
+    </modules>
+  </component>
+</project>
