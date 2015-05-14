@@ -4,6 +4,8 @@ from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
 
 import MySQLdb
 
+# here is a test comment
+
 class Spider_UK(CrawlSpider):
     # MySQL Settings
     db = MySQLdb.connect("localhost", "root", "apmsetup", "HCD_UK")
